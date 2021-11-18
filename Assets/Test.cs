@@ -1,0 +1,21 @@
+﻿using UnityEngine;
+
+/*****************************************
+	 文件:   Test.cs
+	 作者:   #姓名
+	 日期:   #CreateTime
+	 功能:   #Nothing
+ *****************************************/
+ [HelpURL("https://github.com/Siran1994")]
+public class Test : MonoBehaviour
+{
+    void Start()
+    {
+
+    }
+   
+    void Update()
+    {
+
+    }
+}
