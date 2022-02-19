@@ -11,7 +11,7 @@ public class Test : MonoBehaviour
 {
     void Start()
     {
-
+        Debug.Log(1111);
     }
    
     void Update()
